@@ -66,3 +66,9 @@ venv.bak/
 # Coverage
 .coverage
 htmlcov/
+
+# Ignore local storage and uploads
+/storage/
+
+# Ignore archive and old test scripts
+/archive/
